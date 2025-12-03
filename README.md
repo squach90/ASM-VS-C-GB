@@ -1,4 +1,4 @@
-# GB Hello World, ASM Vs C  
+# GB Hello World, ASM Vs C
 
 Did you ever want to know if a simple Game Boy ASM program is more efficient than a Game Boy C program ?
 
@@ -14,7 +14,7 @@ In this project I'm going to use [RGBDS](https://rgbds.gbdev.io/) and [GDBK-2020
 
 This project contains **2 Hello World programs** (1 in ASM and 1 in C):
 
-1. [`main.asm`](ASM/main.asm) → written in **Assembly with RGBDS**
+1. [`main.asm`](Asm/main.asm) → written in **Assembly with RGBDS**
 2. [`main.c`](C/main.c) → written in **C using GBDK**
 
 ---
