@@ -1,4 +1,4 @@
-# GB Hello World, ASM Vs C
+# GB Hello World, ASM Vs C  
 
 Did you ever want to know if a simple Game Boy ASM program is more efficient than a Game Boy C program ?
 
